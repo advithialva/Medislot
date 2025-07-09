@@ -1,4 +1,4 @@
-# 🏥 MediSlot – Doctor Appointment Booking System
+# 🏥 MediSlot – Appointment Booking System
 
 A responsive and modern appointment booking system for healthcare, built using **Next.js**, **TypeScript**, and **Tailwind CSS**. 
 
